@@ -1,0 +1,7 @@
+{
+  "name": "caregiver",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
